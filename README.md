@@ -18,3 +18,6 @@ Add the following line to your `~/.profile` file
 Usually your Python installation directory looks like this, add it to your PATH
 
 `PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"`
+
+## IDE
+Install Python extension in Visual studio https://marketplace.visualstudio.com/items?itemName=ms-python.python
