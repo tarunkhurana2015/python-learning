@@ -21,3 +21,6 @@ Usually your Python installation directory looks like this, add it to your PATH
 
 ## IDE
 Install Python extension in Visual studio https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+## Code formatting
+Install https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8
